@@ -2,7 +2,7 @@
 
 # About
 
-[Android-studio](https://developer.android.com/studio/intro/index.html) 2.2.2.0 on ubuntu 14.04 with vnc and ssh servers
+[Android-studio](https://developer.android.com/studio/intro/index.html) 2.2.2.0 on ubuntu 14.04 with vnc server
 
 ## Usage
 
